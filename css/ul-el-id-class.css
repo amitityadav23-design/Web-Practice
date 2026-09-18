@@ -1,0 +1,24 @@
+*{
+    /*univershal selector*/
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+}
+p{
+    /*elements selecter*/
+    color:green;
+    font-size: medium;
+}
+#it{
+    /*id selecter*/
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+/*descrendant selecter*/
+nav ul li a{
+    color: blue;
+    font-size: medium;
+}
+nav ul li {
+    color: green;
+    font-weight: 200;
+}
