@@ -16,4 +16,5 @@ h1::first-letter{
 }
 h2::first-line{
     color: blue;
+    text-align: right;
 }
