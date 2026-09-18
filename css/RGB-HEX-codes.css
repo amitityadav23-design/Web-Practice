@@ -1,0 +1,9 @@
+p{
+    /*RGB:-red green blue the combination 255 255 255  */
+    color: rgb(255, 00, 00);
+    /* R:- red g:-green b:-blue;*/
+}
+h2{
+    /*#:-hexa color name 1-9 and 9-f hexa code color properties */
+    color: #ffa5ff;
+}
