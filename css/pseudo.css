@@ -1,0 +1,19 @@
+button:hover{
+    /*hover in used*/
+    background-color: black;
+    color:white;
+}
+button:active{
+    background-color: cornflowerblue;
+    color: chartreuse;
+}
+input[type="radio"]:checked+label{
+    color:red;
+    font-weight: bold;
+}
+h1::first-letter{
+    color:black
+}
+h2::first-line{
+    color: blue;
+}
