@@ -1,0 +1,32 @@
+.tech{
+    height: 200px;
+   /* height: auto;
+    height: 0%;
+    height: max-content;
+    height: min-content;
+    height: 3cap;
+    height: 2rem;
+*/
+    width: 200;
+   /* width: auto;
+    width: 0%;
+    width: 2rem;*/
+    border: 2px solid black;
+   /* border: 3cm;
+    border: 2cqh;
+    border-radius: 2px;*/
+    /*padding used in css contenier  in  */
+      padding: 50%;
+     /*padding-bottom: 20px ;
+     padding-left:2px ;
+     padding-right:20px ;
+     padding-top:50% ;
+     padding-inline: 22px;*/
+     margin: 10px;
+    /* margin-top: 0cap;
+     margin-left: 2px;
+     margin-right:33px ;
+     margin-inline: inherit;
+     margin-block-start: ;*/
+}
+
