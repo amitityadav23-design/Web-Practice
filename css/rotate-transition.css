@@ -1,0 +1,32 @@
+section{
+    margin-top: 100px;
+}
+div{
+    height: 50px;
+    width: 200px;
+    border: 2px solid black;
+    background-color: chartreuse;
+    margin: 10px;
+    text-align: center;
+
+}
+div:nath-of-type(2n){
+    background-color: chocolate;
+}
+div:nath-of-type(3n){
+    background-color: rgb(141, 210, 30);
+}
+#one{
+    transform:rotate(180deg);
+    transform: scale(0.5);
+}
+#two{
+    transform: scale(1.5);
+
+}
+#three{
+    transform: scale(2);
+}
+#four{
+ transform: scale(4);
+}
