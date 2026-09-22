@@ -1,0 +1,24 @@
+.content{
+    height:400px;
+    width:400px;
+    border:2px solid rgb(12, 122, 156);
+    background-color:grey;
+    display:flex;
+    /*flex-direction:column-reverse;
+    flex-direction:column;*/
+    flex-direction:column;
+    justify-content:space-evenly;
+    font-size:20px;
+    text-align:center;
+    flex-wrap:wrap;
+    align-content:space-evenly;
+
+    
+
+}
+.content div{
+    height:100px;
+    width:100px;
+    border:2px solid black;
+
+}
