@@ -1,0 +1,11 @@
+// let a=5;
+// console.log(a++);
+// console.log(a);
+// let b=7;
+// console.log(++b);
+// // let a=5;
+// console.log (a--);
+// console.log(a);
+let a=4;
+console.log(--a);
+console.log(a);
